@@ -1,0 +1,50 @@
+# Evolution — Generative Engine Optimization Map
+
+> A fun and absurdist AI-powered interactive website where users submit ridiculous hypothetical scenarios — like 'what if humans could spit water?' — and the AI seriously analyzes how humanity would evolve over a million years based on that premise. The site then calculates and displays survival odds of this evolved human species against various types of armies and military forces. The concept blends humor, speculative science, and pop-culture entertainment with a mock-serious tone, creating an addictive and shareable experience.
+
+---
+
+## Pages
+
+### בית
+https://evolution-2204a43c.zappy5.app
+A fun and absurdist AI-powered interactive website where users submit ridiculous hypothetical scenarios — like &#39;what if humans could spit water?&#39; — and the AI s
+
+## Legal & Policy
+
+### Privacy Policy
+https://evolution-2204a43c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://evolution-2204a43c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://evolution-2204a43c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Evolution
+A fun and absurdist AI-powered interactive website where users submit ridiculous hypothetical scenarios — like 'what if humans could spit water?' — and the AI seriously analyzes how humanity would evolve over a million years based on that premise. The site then calculates and displays survival odds of this evolved human species against various types of armies and military forces. The concept blends humor, speculative science, and pop-culture entertainment with a mock-serious tone, creating an addictive and shareable experience.
+
+## Services/Products
+- קבלת רעיון אבסורדי/פנטסטי מהמשתמש
+- ניתוח אבולוציוני של בני האדם לאורך מיליון שנה בהתבסס על הרעיון
+- הצגת כמה זמן המין המפותח ישרוד מול סוגי צבאות שונים
+
+## Target Audience
+אנשים סקרנים, חובבי מדע, חובבי היסטוריה אלטרנטיבית וסצנריו פנטסטיים
+
+## Industry
+בידור, מדע, טכנולוגיה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://evolution-2204a43c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://evolution-2204a43c.zappy5.app/robots.txt
